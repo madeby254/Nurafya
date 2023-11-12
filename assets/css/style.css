@@ -1495,7 +1495,7 @@ input:-webkit-autofill:hover, input:-webkit-autofill:focus {
 }
 
 .hrrd-hero {
-  background: linear-gradient(180deg, #536159 0%, #ffffff 100%);
+  background: linear-gradient(180deg, #bccdc3 0%, #ffffff 100%);
   padding: 220px 0 134px;
 }
 
@@ -5038,7 +5038,7 @@ Agency Menu Css
 .sk-cube-grid .sk-cube {
   width: 33%;
   height: 33%;
-  background-color: #ff8345;
+  background-color: #9dc4b5;
   float: left;
   -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
   animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
